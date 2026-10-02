@@ -1,0 +1,10 @@
+{
+  "apps": [
+    {
+      "name": "Rev9 Apis",
+      "path": "web-rev9-apis",
+      "framework": "web"
+    }
+  ],
+  "$schema": "https://rork.com/schema/rork.json"
+}
